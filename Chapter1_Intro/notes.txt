@@ -1,0 +1,27 @@
+Python is a high-level programming language used to give 
+instructions to a computer in a simple and readable way. 
+
+print("Hello, World!") 
+
+Python acts as a translator between humans and computers.
+
+Python was created in the late 1980s and released in the early 1990s. 
+
+The goal behind Python was to create a language that: 
+• Is easy to learn 
+• Is easy to read 
+• Is powerful enough for real applications 
+
+1.5 Key Features of Python 
+Python includes several features that make it unique and powerful. 
+Easy to Learn 
+Python has fewer rules and symbols, making it ideal for beginners. 
+Readable Syntax 
+Python uses indentation instead of brackets, which keeps programs 
+clean and organized. 
+Interpreted Language 
+Python executes code line by line, making errors easier to 
+understand and fix. 
+Cross-Platform 
+Python programs can run on Windows, Linux, and macOS without 
+modification.

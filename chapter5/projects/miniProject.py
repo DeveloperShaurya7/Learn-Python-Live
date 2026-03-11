@@ -6,11 +6,12 @@ marks = float(input("Enter your marks: "))
 # Grade D = 50 - 33 - pass
 # Grade E = 33 - 0 - fail
 
-if(marks >= 90):
+# Grade logic
+if(marks >= 90): 
     grade = "A"
-elif (marks >= 75):
+elif (marks >= 75): 
     grade = "B"
-elif (marks >= 50):
+elif (marks >= 50): 
     grade = "C"
 elif(marks >= 33):
     grade = "D"
@@ -19,6 +20,7 @@ else:
 
 print("Your Grade: ", grade)
 
+# pass fail logic
 if marks >= 33: 
     print("Pass")
 else:

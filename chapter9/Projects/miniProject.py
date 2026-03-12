@@ -13,13 +13,11 @@ def division(a,b):   # a -  numerator , b - denominator
     return a / b 
 
 
-
 # Menu
 print("1. Addition")
 print("2. Substraction")
 print("3. Multiplication")
 print("4. Division")
-
 
 choice = int(input("Enter your choice: "))
 

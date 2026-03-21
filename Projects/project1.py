@@ -15,7 +15,7 @@ def add_expenses():
     try:
         date = input("Enter date (YYYY-MM-DD): ")
         category = input("Enter category: ")
-        amount = int(input("Enter Amount: "))
+        amount = float(input("Enter Amount: "))
         note = input("Enter note: ")
         
         with open(FILE_NAME, "a", newline="") as file:

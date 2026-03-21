@@ -1,0 +1,5 @@
+DeveloperShaurya
+Kranti
+ Hello Everyone
+ Welcome to Python Programming
+ This is a file handling exercise

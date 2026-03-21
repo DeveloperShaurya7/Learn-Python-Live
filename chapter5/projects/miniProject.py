@@ -7,7 +7,7 @@ marks = float(input("Enter your marks: "))
 # Grade E = 33 - 0 - fail
 
 # Grade logic
-if(marks >= 90): 
+if (marks >= 90) : 
     grade = "A"
 elif (marks >= 75): 
     grade = "B"
